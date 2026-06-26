@@ -10,7 +10,7 @@ I am passionate about solving real-world problems through technology and continu
 
 **Location:** Tamil Nadu, India
 **Education:** Bachelor of Engineering in Computer Science
-**Current Focus:** Java, Spring Boot, Cybersecurity, AI/ML, AI Agents
+**Current Focus:** Java, Spring Boot, Cybersecurity, AI/ML, AI Agents, AWS
 **Career Goal:** Software Engineer | Backend Developer | Cybersecurity Engineer | AI Engineer
 
 ---
@@ -30,7 +30,7 @@ I am passionate about solving real-world problems through technology and continu
 * REST APIs
 * Maven
 * JWT Authentication
-* Hibernate (Learning)
+* Hibernate
 
 ### Frontend Development
 
@@ -42,7 +42,7 @@ I am passionate about solving real-world problems through technology and continu
 ### Databases
 
 * MySQL
-* H2 Database
+* PostgreSQL
 
 ### Cybersecurity
 
@@ -88,20 +88,6 @@ A real-time **Host-Based Intrusion Detection System (HIDS)** built using **Sprin
 
 ---
 
-### AI News Monitoring Chatbot *(Planned)*
-
-An intelligent chatbot that monitors real-world news based on user-defined topics and delivers summarized updates using Large Language Models.
-
-**Key Features**
-
-* Personalized news tracking
-* AI-powered summarization
-* Real-time notifications
-* Topic-based subscriptions
-
-**Tech Stack:** Spring Boot, LLM APIs, React
-
----
 
 ### Java Full Stack Applications
 
@@ -144,9 +130,9 @@ A growing portfolio of machine learning implementations covering:
 
 ## Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/swathi-2106
+* LinkedIn: https://www.linkedin.com/in/swathi-s-cse/
+* Email: [swathirtcc27@gmail.com](mailto:swathirtcc27@gmail.com)
 
 ---
 
