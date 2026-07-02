@@ -1,23 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm Swathi.</h1>
+<h1 align="center">Hi, I'm Swathi.</h1>
 
 <h3 align="center">
-Backend Developer • Cybersecurity Enthusiast • AI/ML Explorer • AWS Certified Cloud Learner
+Backend Developer • Cybersecurity Practitioner • AI/ML Explorer • AWS Certified Cloud Learner
 </h3>
 
 <p align="center">
 Building secure, scalable backend applications with Java & Spring Boot while exploring Artificial Intelligence, Machine Learning, and AI Agents.
 </p>
 
-<p align="center">
-  <a href="https://github.com/swathi-2106">
-    <img src="https://komarev.com/ghpvc/?username=swathi-2106&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
-# 🚀 About Me
+# About Me
 
 - Computer Science Engineering Student
 - Passionate about Backend Development using **Java & Spring Boot**
@@ -28,7 +22,7 @@ Building secure, scalable backend applications with Java & Spring Boot while exp
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -64,7 +58,7 @@ Building secure, scalable backend applications with Java & Spring Boot while exp
 
 # ⭐ Featured Projects
 
-## 🛡 Guardian AI – AI-Based Intrusion Detection System
+## Guardian AI – AI-Based Intrusion Detection System
 
 A real-time **Host-Based Intrusion Detection System (HIDS)** that combines traditional security monitoring with AI-powered anomaly detection.
 
@@ -119,25 +113,7 @@ A growing collection of practical machine learning projects including:
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swathi-2106&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathi-2106&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=swathi-2106&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-<a href="https://github.com/swathi-2106">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+# Let's Connect
 
 <a href="https://www.linkedin.com/in/swathi-s-cse/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
