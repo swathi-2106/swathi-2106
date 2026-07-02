@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Swathi.</h1>
 
 <h3 align="center">
-Backend Developer • Cybersecurity Practitioner • AI/ML Explorer • AWS Certified Cloud Learner
+Backend Developer • Cybersecurity Learner • AWS Certified Cloud Practitioner
 </h3>
 
 <p align="center">
