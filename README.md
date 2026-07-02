@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Swathi.</h1>
 
 <h3 align="center">
@@ -153,4 +153,3 @@ A growing collection of practical machine learning projects including:
 <p align="center">
 <i>"Building secure software today while creating intelligent systems for tomorrow."</i>
 </p>
-```
