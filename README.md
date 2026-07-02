@@ -1,139 +1,156 @@
-# Hello! I'm Swathi S.
+```markdown
+<h1 align="center">Hi 👋, I'm Swathi.</h1>
 
-## About Me
+<h3 align="center">
+Backend Developer • Cybersecurity Enthusiast • AI/ML Explorer • AWS Certified Cloud Learner
+</h3>
 
-I am a **Computer Science Engineering student** with a strong interest in **Backend Development, Cybersecurity, Artificial Intelligence, and Machine Learning**. I enjoy building practical software solutions that combine secure system design with intelligent automation.
+<p align="center">
+Building secure, scalable backend applications with Java & Spring Boot while exploring Artificial Intelligence, Machine Learning, and AI Agents.
+</p>
 
-My primary focus is **Java Full Stack Development using Spring Boot**, while continuously expanding my knowledge in **Cybersecurity, AI/ML, and AI Agent development**. I believe that building real-world projects is the most effective way to strengthen technical skills and gain hands-on experience.
-
-I am passionate about solving real-world problems through technology and continuously improving my understanding of software engineering, secure application development, and intelligent systems.
-
-**Location:** Tamil Nadu, India
-**Education:** Bachelor of Engineering in Computer Science
-**Current Focus:** Java, Spring Boot, Cybersecurity, AI/ML, AI Agents, AWS
-**Career Goal:** Software Engineer | Backend Developer | Cybersecurity Engineer | AI Engineer
+<p align="center">
+  <a href="https://github.com/swathi-2106">
+    <img src="https://komarev.com/ghpvc/?username=swathi-2106&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## Skills & Technologies
+# 🚀 About Me
 
-### Programming Languages
+- Computer Science Engineering Student
+- Passionate about Backend Development using **Java & Spring Boot**
+- Interested in **Cybersecurity** and Secure Software Development
+- Exploring **Artificial Intelligence, Machine Learning & AI Agents**
+-  Currently learning **AWS Cloud**
+- I enjoy building practical projects that solve real-world problems while continuously improving my software engineering skills.
 
-* Java
-* Python
-* JavaScript
-* SQL
+---
 
-### Backend Development
+# 🛠 Tech Stack
 
-* Spring Boot
-* REST APIs
-* Maven
-* JWT Authentication
-* Hibernate
+### Languages
 
-### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+</p>
 
-* React
-* HTML
-* CSS
-* Bootstrap
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### Databases
 
-* MySQL
-* PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-### Cybersecurity
+### Tools & Cloud
 
-* Network Security Fundamentals
-* Host-Based Intrusion Detection
-* Authentication & Authorization
-* Secure API Development
-* OWASP Fundamentals
-
-### Artificial Intelligence & Machine Learning
-
-* Machine Learning Fundamentals
-* AI Agents
-* LLM Applications
-* Prompt Engineering
-* Anomaly Detection
-
-### Tools
-
-* Git & GitHub
-* IntelliJ IDEA
-* VS Code
-* Postman
-* Maven
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,aws" />
+</p>
 
 ---
 
-## Featured Projects
+# ⭐ Featured Projects
 
-### Guardian AI – AI-Based Intrusion Detection System
+## 🛡 Guardian AI – AI-Based Intrusion Detection System
 
-A real-time **Host-Based Intrusion Detection System (HIDS)** built using **Spring Boot, React, and Python**.
+A real-time **Host-Based Intrusion Detection System (HIDS)** that combines traditional security monitoring with AI-powered anomaly detection.
 
-**Key Features**
+**Highlights**
 
-* Real-time Windows log monitoring
-* Rule-based intrusion detection
-* AI-powered anomaly detection
-* Interactive security dashboard
-* PDF and CSV report generation
+- Real-time Windows Event Log Monitoring
+- Rule-Based Threat Detection
+- AI-Powered Anomaly Detection
+- Interactive Security Dashboard
+- PDF & CSV Report Generation
 
-**Tech Stack:** Spring Boot, React, Python, Windows Event Viewer
+**Tech Stack**
 
----
-
-
-### Java Full Stack Applications
-
-A collection of backend-focused projects demonstrating:
-
-* RESTful API development
-* Authentication and authorization
-* CRUD operations
-* Database integration
-* Secure application design
-
-**Tech Stack:** Java, Spring Boot, MySQL
+`Spring Boot` • `React` • `Python`
 
 ---
 
-### Machine Learning Projects
+## Java Full Stack Projects
 
-A growing portfolio of machine learning implementations covering:
+A collection of backend-focused applications demonstrating:
 
-* Classification
-* Regression
-* Anomaly Detection
-* Model Evaluation
-* Data Preprocessing
-
-**Tech Stack:** Python, Scikit-learn
-
----
-
-## What I'm Currently Learning
-
-* Advanced Spring Boot
-* AI Agent Development
-* Large Language Models (LLMs)
-* Machine Learning
-* Cloud Technologies
-* Advanced Cybersecurity Concepts
+- REST API Development
+- JWT Authentication
+- CRUD Operations
+- Database Integration
+- Secure Application Design
+- Spring Boot Best Practices
 
 ---
 
-## Connect With Me
+## Machine Learning Projects
 
-* GitHub: https://github.com/swathi-2106
-* LinkedIn: https://www.linkedin.com/in/swathi-s-cse/
-* Email: [swathirtcc27@gmail.com](mailto:swathirtcc27@gmail.com)
+A growing collection of practical machine learning projects including:
+
+- Classification
+- Regression
+- Data Preprocessing
+- Model Evaluation
+- Anomaly Detection
 
 ---
 
-> *"The best way to learn technology is to build, break, improve, and repeat."*
+# Currently Learning
+
+- Advanced Spring Boot
+- Microservices Architecture
+- AI Agent Development
+- Large Language Models (LLMs)
+- Machine Learning
+- AWS Cloud
+- Advanced Cybersecurity
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swathi-2106&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathi-2106&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swathi-2106&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/swathi-2106">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/swathi-s-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:swathirtcc27@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Building secure software today while creating intelligent systems for tomorrow."</i>
+</p>
+```
